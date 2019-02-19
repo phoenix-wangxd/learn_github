@@ -1,2 +1,4 @@
 #!/bin/bash
 ll | grep test
+id | grep -i uid
+
